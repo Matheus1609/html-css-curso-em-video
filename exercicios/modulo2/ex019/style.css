@@ -1,0 +1,26 @@
+body {
+    background-color: #A6FFA7;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1#principal {
+    background-color: #093a0a;
+    color: white;
+    text-align: center;
+}
+
+.basico {
+    color: red;
+}
+
+.intermediario {
+    color: green;
+}
+
+.avancado {
+    color: blue;
+}
+
+.destaque {
+    background-color: rgba(255, 255, 0, 0.545);
+}
